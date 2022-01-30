@@ -1,0 +1,56 @@
+@import "null.css";
+.main-list {
+	color: darkgoldenrod;
+}
+.span {
+	color: blueviolet;
+}
+.about .about_third {
+	color: cadetblue;
+}
+.about {
+	color: green;
+}
+.career {
+	color: hotpink;
+}
+.moovies {
+	color: yellow;
+}
+.actions {
+	color: blueviolet;
+}
+.actions_list {
+}
+.interesting {
+	color: aqua;
+}
+.producion {
+	color: firebrick;
+}
+.direction,
+.private {
+	color: lime;
+}
+.first {
+	color: red;
+}
+ol li a.bio,
+.act {
+	color: darkolivegreen;
+}
+#start {
+	color: brown;
+}
+p span {
+	color: chocolate;
+}
+ol li a {
+	color: crimson;
+}
+a {
+	color: maroon;
+}
+p a {
+	color: gold;
+}
